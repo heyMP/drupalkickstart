@@ -1,0 +1,11 @@
+{
+  "generator-aurora": {
+    "projectName": "drupalkickstart",
+    "projectSlug": "drupalkickstart",
+    "projectType": "Polaris",
+    "projectOptions": [
+      "Gulp",
+      "Bower"
+    ]
+  }
+}
